@@ -10,7 +10,7 @@ If you've ever wanted to know where to go to take in the culture in Cardiff city
 
 You can run the app on your localhost.
 
-If you need help to set up a simple local server look [here](https://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python)
+If you need help to set up a simple HTTP server look [here](https://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python)
 
 ## Resources
 
